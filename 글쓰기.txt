@@ -1,4 +1,0 @@
-1.view 완성
-2.controller 완성
-3.db 아직
-4.db 완성
